@@ -1,0 +1,3 @@
+1. EGGS
+2. JUICE
+3. ORANGES
