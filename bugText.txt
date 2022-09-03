@@ -1,2 +1,2 @@
-1. Fix Bug1
-2. Fix Bug3
+1. fix Bug31
+2. fix Bug33
