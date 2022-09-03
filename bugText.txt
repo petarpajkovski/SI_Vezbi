@@ -1,3 +1,4 @@
 1. fix Bug31
 2. fix Bug33
 3. Fix Bug7
+4. Fix Bug12
