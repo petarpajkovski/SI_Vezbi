@@ -1,4 +1,2 @@
 1. EGGS
 2. JUICE
-3. ORANGE
-4. BEER
